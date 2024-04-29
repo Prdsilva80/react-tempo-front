@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <Container>
             <LiaBinocularsSolid />
-            <Title>Vigia do Tempo</Title>
+                <Title>Vigia do Tempo</Title>
             <LiaBinocularsSolid />
         </Container>
     );
